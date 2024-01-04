@@ -11,6 +11,8 @@ Without loss of generality, to train the deep learning models used in this work 
 <img src="images/dataset_tensors.png" width="500"/>
 This figure shows the images of the real CRC polyp types as well as the fabricated phantoms replicating them. These polyps are classified based on Kudo pit patterns, such as Asteroid, Gyrus, Round, and Oval. Also, a conceptual three-dimensional illustration of the textural image dataset collected by the HySenSe VTS on  10 variations of 3D printed polyp phantoms is shown in the figure.  Each of the polyp phantoms is printed with 4 different materials (i.e., DM-400, DM-600, A-40, and A-70). 
 
+The dataset used in this study is also available to view and use in this repository.
+
 
 ## Experimental Setup
 
