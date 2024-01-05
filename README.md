@@ -82,3 +82,4 @@ For ResNet18:
 ## Bibliography
 1. [HySenSe: A Hyper-Sensitive and High-Fidelity Vision-Based Tactile Sensor](https://link.springer.com/article/10.1007/s10439-023-03153-w), by Ozdemir Can Kara, Naruhiko Ikoma & Farshid Alambeigi (2022)
 2. [A Reliable and Sensitive Framework for Simultaneous Type and Stage Detection of Colorectal Cancer Polyps](https://link.springer.com/article/10.1007/s10439-023-03153-w), by Ozdemir Can Kara, Nethra Venkatayogi, Naruhiko Ikoma & Farshid Alambeigi (2023)
+3. [Towards Reliable Colorectal Cancer Polyps Classification via Vision Based Tactile Sensing and Confidence-Calibrated Neural Networks](https://ieeexplore.ieee.org/document/10130197/citations?tabFilter=papers#citations), by Siddhartha Kapuria, Tarunraj G. Mohanraj, Nethra Venkatayogi, Ozdemir Can Kara, Yuki Hirata, Patrick Minot, Ariel Kapusta, Naruhiko Ikoma & Farshid Alambeigi (2023)
