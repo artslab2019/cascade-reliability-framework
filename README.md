@@ -1,5 +1,5 @@
 # cascade-reliability-framework
-Supplementary material for the Journal of Biomedical and Health Informatics (JBHI) paper titled "A Novel Dual Layer Cascade Reliability Framework for an Informed and Intuitive Clinician-AI Interaction In Diagnosis of Colorectal Cancer Polyps (2023)" by Siddhartha Kapuria, Patrick Minot, Ariel Kapusta, Naruhiko Ikoma, and Farshid Alambeigi.
+Supplementary material for the Journal of Biomedical and Health Informatics (JBHI) paper titled "A Novel Dual Layer Cascade Reliability Framework for an Informed and Intuitive Clinician-AI Interaction In Diagnosis of Colorectal Cancer Polyps" by Siddhartha Kapuria, Patrick Minot, Ariel Kapusta, Naruhiko Ikoma, and Farshid Alambeigi (2023).
 
 
 
