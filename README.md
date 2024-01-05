@@ -19,6 +19,8 @@ The dataset used in this study is also available to view and use in this reposit
 <img src="images/exp_setup.png" width="500"/>
 This figure shows the experimental setup for collecting textural images using the HyySense VTS and polyp phantoms, including: (1): CRC polyp phantoms, (2): Mark-10 Series 5 Digital Force Gauge, (3): M-UMR12.40 Precision Linear Stage, (4): HySenSe sensor, (5): Raspberry Pi 4 Model B, (6): HySenSe image output, (7): Dimensions of polyp phantom, (8): HySenSe side view, top view, and dimensions, h<sub>s</sub> = 24 mm is the height of the 3D printed rigid frame, t<sub>s</sub> = 4.5 mm is the thickness of the gel layer w<sub>s</sub> = 33.8 mm is the width of the gel layer, and R = 35 mm is the radius of the dome-shaped gel layer.
 
+The HySenSe sensor itself consists of (i) a deformable silicone membrane that directly interacts with the target surface, (ii) an optical module (Arducam 1/4 inch 5 MP camera), that captures the minute deformations of the gel layer in case of interaction with a texture, (iii) a transparent acrylic plate providing support to the gel layer, (iv) an array of Red, Green and Blue LEDs to provide internal illumination for depth perception, and (v) a rigid frame supporting the entire structure.
+
 ## Choice of Hyperparameters for the RAPS Algorithm
 
 
